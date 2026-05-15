@@ -1,7 +1,7 @@
 # 📈 Sales Forecasting & Analytics Engine
 
 ## 🎯 Project Overview
-This project was developed to automate revenue forecasting at **Swift Solutions**. By moving away from manual Excel tracking, we implemented a machine learning pipeline that provides data-driven insights for quarterly planning.
+This project was developed to automate revenue forecasting . By moving away from manual Excel tracking, we implemented a machine learning pipeline that provides data-driven insights for quarterly planning.
 
 ## 🚀 Technical Features
 * **Machine Learning:** Implemented a **Random Forest Regressor** to handle non-linear business trends.
